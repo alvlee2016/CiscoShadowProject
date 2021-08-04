@@ -1,6 +1,7 @@
 # CiscoShadowProject
 
 Command to run on terminal: ./mvnw spring-boot:run
+
 To run server on IDE, simply run the main method inside the Application.java class
 
 On browser: 
